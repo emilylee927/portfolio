@@ -140,3 +140,16 @@ a:hover {
   font-size: 1rem;
   padding: 20px 0;
 }
+
+#etsunshin{
+  color: #11999E;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+#etsunshin:hover{
+  color: black;
+
+
+}
